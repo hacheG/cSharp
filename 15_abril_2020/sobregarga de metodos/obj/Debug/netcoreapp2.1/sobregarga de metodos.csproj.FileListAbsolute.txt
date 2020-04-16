@@ -1,0 +1,11 @@
+/home/hache/Documentos/Coding/c#EnDosDias/15_abril_2020/sobregarga de metodos/bin/Debug/netcoreapp2.1/sobregarga de metodos.deps.json
+/home/hache/Documentos/Coding/c#EnDosDias/15_abril_2020/sobregarga de metodos/bin/Debug/netcoreapp2.1/sobregarga de metodos.runtimeconfig.json
+/home/hache/Documentos/Coding/c#EnDosDias/15_abril_2020/sobregarga de metodos/bin/Debug/netcoreapp2.1/sobregarga de metodos.runtimeconfig.dev.json
+/home/hache/Documentos/Coding/c#EnDosDias/15_abril_2020/sobregarga de metodos/bin/Debug/netcoreapp2.1/sobregarga de metodos.dll
+/home/hache/Documentos/Coding/c#EnDosDias/15_abril_2020/sobregarga de metodos/bin/Debug/netcoreapp2.1/sobregarga de metodos.pdb
+/home/hache/Documentos/Coding/c#EnDosDias/15_abril_2020/sobregarga de metodos/obj/Debug/netcoreapp2.1/sobregarga de metodos.csprojAssemblyReference.cache
+/home/hache/Documentos/Coding/c#EnDosDias/15_abril_2020/sobregarga de metodos/obj/Debug/netcoreapp2.1/sobregarga de metodos.csproj.CoreCompileInputs.cache
+/home/hache/Documentos/Coding/c#EnDosDias/15_abril_2020/sobregarga de metodos/obj/Debug/netcoreapp2.1/sobregarga de metodos.AssemblyInfoInputs.cache
+/home/hache/Documentos/Coding/c#EnDosDias/15_abril_2020/sobregarga de metodos/obj/Debug/netcoreapp2.1/sobregarga de metodos.AssemblyInfo.cs
+/home/hache/Documentos/Coding/c#EnDosDias/15_abril_2020/sobregarga de metodos/obj/Debug/netcoreapp2.1/sobregarga de metodos.dll
+/home/hache/Documentos/Coding/c#EnDosDias/15_abril_2020/sobregarga de metodos/obj/Debug/netcoreapp2.1/sobregarga de metodos.pdb

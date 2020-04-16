@@ -1,0 +1,11 @@
+/home/hache/Documentos/Coding/c#EnDosDias/15_abril_2020/theSwitch/bin/Debug/netcoreapp2.1/theSwitch.deps.json
+/home/hache/Documentos/Coding/c#EnDosDias/15_abril_2020/theSwitch/bin/Debug/netcoreapp2.1/theSwitch.runtimeconfig.json
+/home/hache/Documentos/Coding/c#EnDosDias/15_abril_2020/theSwitch/bin/Debug/netcoreapp2.1/theSwitch.runtimeconfig.dev.json
+/home/hache/Documentos/Coding/c#EnDosDias/15_abril_2020/theSwitch/bin/Debug/netcoreapp2.1/theSwitch.dll
+/home/hache/Documentos/Coding/c#EnDosDias/15_abril_2020/theSwitch/bin/Debug/netcoreapp2.1/theSwitch.pdb
+/home/hache/Documentos/Coding/c#EnDosDias/15_abril_2020/theSwitch/obj/Debug/netcoreapp2.1/theSwitch.csprojAssemblyReference.cache
+/home/hache/Documentos/Coding/c#EnDosDias/15_abril_2020/theSwitch/obj/Debug/netcoreapp2.1/theSwitch.csproj.CoreCompileInputs.cache
+/home/hache/Documentos/Coding/c#EnDosDias/15_abril_2020/theSwitch/obj/Debug/netcoreapp2.1/theSwitch.AssemblyInfoInputs.cache
+/home/hache/Documentos/Coding/c#EnDosDias/15_abril_2020/theSwitch/obj/Debug/netcoreapp2.1/theSwitch.AssemblyInfo.cs
+/home/hache/Documentos/Coding/c#EnDosDias/15_abril_2020/theSwitch/obj/Debug/netcoreapp2.1/theSwitch.dll
+/home/hache/Documentos/Coding/c#EnDosDias/15_abril_2020/theSwitch/obj/Debug/netcoreapp2.1/theSwitch.pdb

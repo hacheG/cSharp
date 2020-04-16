@@ -1,0 +1,11 @@
+/home/hache/Documentos/Coding/c#EnDosDias/15_abril_2020/metodos/bin/Debug/netcoreapp2.1/metodos.deps.json
+/home/hache/Documentos/Coding/c#EnDosDias/15_abril_2020/metodos/bin/Debug/netcoreapp2.1/metodos.runtimeconfig.json
+/home/hache/Documentos/Coding/c#EnDosDias/15_abril_2020/metodos/bin/Debug/netcoreapp2.1/metodos.runtimeconfig.dev.json
+/home/hache/Documentos/Coding/c#EnDosDias/15_abril_2020/metodos/bin/Debug/netcoreapp2.1/metodos.dll
+/home/hache/Documentos/Coding/c#EnDosDias/15_abril_2020/metodos/bin/Debug/netcoreapp2.1/metodos.pdb
+/home/hache/Documentos/Coding/c#EnDosDias/15_abril_2020/metodos/obj/Debug/netcoreapp2.1/metodos.csprojAssemblyReference.cache
+/home/hache/Documentos/Coding/c#EnDosDias/15_abril_2020/metodos/obj/Debug/netcoreapp2.1/metodos.csproj.CoreCompileInputs.cache
+/home/hache/Documentos/Coding/c#EnDosDias/15_abril_2020/metodos/obj/Debug/netcoreapp2.1/metodos.AssemblyInfoInputs.cache
+/home/hache/Documentos/Coding/c#EnDosDias/15_abril_2020/metodos/obj/Debug/netcoreapp2.1/metodos.AssemblyInfo.cs
+/home/hache/Documentos/Coding/c#EnDosDias/15_abril_2020/metodos/obj/Debug/netcoreapp2.1/metodos.dll
+/home/hache/Documentos/Coding/c#EnDosDias/15_abril_2020/metodos/obj/Debug/netcoreapp2.1/metodos.pdb

@@ -1,0 +1,11 @@
+/home/hache/Documentos/Coding/c#EnDosDias/15_abril_2020/valor opcional/bin/Debug/netcoreapp2.1/valor opcional.deps.json
+/home/hache/Documentos/Coding/c#EnDosDias/15_abril_2020/valor opcional/bin/Debug/netcoreapp2.1/valor opcional.runtimeconfig.json
+/home/hache/Documentos/Coding/c#EnDosDias/15_abril_2020/valor opcional/bin/Debug/netcoreapp2.1/valor opcional.runtimeconfig.dev.json
+/home/hache/Documentos/Coding/c#EnDosDias/15_abril_2020/valor opcional/bin/Debug/netcoreapp2.1/valor opcional.dll
+/home/hache/Documentos/Coding/c#EnDosDias/15_abril_2020/valor opcional/bin/Debug/netcoreapp2.1/valor opcional.pdb
+/home/hache/Documentos/Coding/c#EnDosDias/15_abril_2020/valor opcional/obj/Debug/netcoreapp2.1/valor opcional.csprojAssemblyReference.cache
+/home/hache/Documentos/Coding/c#EnDosDias/15_abril_2020/valor opcional/obj/Debug/netcoreapp2.1/valor opcional.csproj.CoreCompileInputs.cache
+/home/hache/Documentos/Coding/c#EnDosDias/15_abril_2020/valor opcional/obj/Debug/netcoreapp2.1/valor opcional.AssemblyInfoInputs.cache
+/home/hache/Documentos/Coding/c#EnDosDias/15_abril_2020/valor opcional/obj/Debug/netcoreapp2.1/valor opcional.AssemblyInfo.cs
+/home/hache/Documentos/Coding/c#EnDosDias/15_abril_2020/valor opcional/obj/Debug/netcoreapp2.1/valor opcional.dll
+/home/hache/Documentos/Coding/c#EnDosDias/15_abril_2020/valor opcional/obj/Debug/netcoreapp2.1/valor opcional.pdb

@@ -1,0 +1,11 @@
+/home/hache/Documentos/Coding/c#EnDosDias/15_abril_2020/numerosAleat/bin/Debug/netcoreapp2.1/numerosAleat.deps.json
+/home/hache/Documentos/Coding/c#EnDosDias/15_abril_2020/numerosAleat/bin/Debug/netcoreapp2.1/numerosAleat.runtimeconfig.json
+/home/hache/Documentos/Coding/c#EnDosDias/15_abril_2020/numerosAleat/bin/Debug/netcoreapp2.1/numerosAleat.runtimeconfig.dev.json
+/home/hache/Documentos/Coding/c#EnDosDias/15_abril_2020/numerosAleat/bin/Debug/netcoreapp2.1/numerosAleat.dll
+/home/hache/Documentos/Coding/c#EnDosDias/15_abril_2020/numerosAleat/bin/Debug/netcoreapp2.1/numerosAleat.pdb
+/home/hache/Documentos/Coding/c#EnDosDias/15_abril_2020/numerosAleat/obj/Debug/netcoreapp2.1/numerosAleat.csprojAssemblyReference.cache
+/home/hache/Documentos/Coding/c#EnDosDias/15_abril_2020/numerosAleat/obj/Debug/netcoreapp2.1/numerosAleat.csproj.CoreCompileInputs.cache
+/home/hache/Documentos/Coding/c#EnDosDias/15_abril_2020/numerosAleat/obj/Debug/netcoreapp2.1/numerosAleat.AssemblyInfoInputs.cache
+/home/hache/Documentos/Coding/c#EnDosDias/15_abril_2020/numerosAleat/obj/Debug/netcoreapp2.1/numerosAleat.AssemblyInfo.cs
+/home/hache/Documentos/Coding/c#EnDosDias/15_abril_2020/numerosAleat/obj/Debug/netcoreapp2.1/numerosAleat.dll
+/home/hache/Documentos/Coding/c#EnDosDias/15_abril_2020/numerosAleat/obj/Debug/netcoreapp2.1/numerosAleat.pdb
